@@ -1,0 +1,50 @@
+@charset "ISO-8859-1";
+
+body{
+	margin:20px;
+}
+
+.box{
+	display:inline-block;
+	vertical-align:top;
+	width:300px;
+	border: 2px solid black;
+	padding:20px;
+	margin:20px;
+}
+.sort {
+	margin-left:250px;
+}
+span{
+	color:red;
+}
+
+h1 {
+	color: purple;
+}
+form:errors{
+	color:red;
+}
+
+.logout {
+	float:right;
+	margin-right:100px;
+}
+
+.home {
+	position:absolute;
+	right:200px;
+}
+
+table {
+    border-collapse: collapse;
+    width:400px;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, tr:nth-child(even) {
+	background-color: #f2f2f2;
+}

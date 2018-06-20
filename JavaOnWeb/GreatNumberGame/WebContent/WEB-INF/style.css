@@ -1,0 +1,19 @@
+body {
+	text-align:center;
+	}
+.red {
+	margin-left:400px;
+	background: red;
+	width:100px;
+	color: white;
+	text-align:center;
+	padding:30px;
+	}
+.green {
+	margin-left:400px;
+	background: green;
+	width:100px;
+	color: white;
+	text-align:center;
+	padding:30px;
+	}

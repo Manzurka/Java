@@ -1,0 +1,64 @@
+
+.red {
+	width:200px;
+	height:200px;
+	display:inline-block;
+	vertical-align:top;
+	border: 2px solid black;
+	margin: 20px;
+	background-color:red;
+}
+
+h1 {
+	text-indent: 550px;
+}
+
+#firstdiv {
+	margin-left:280px;
+}
+div {
+	display:inline-block;
+	vertical-align:top;
+}
+
+.projects{
+	margin-left: 45px;
+}
+
+#welcome {
+	text-indent: 600px;
+}
+
+.links {
+	text-indent: 350px;
+}
+
+.box {
+	background-color:yellow;
+	border: 2px solid black;
+	width:200px;
+	margin-left: 300px;
+}
+.box p{
+	padding:20px;
+}
+
+.img {
+	background-color: blue;
+	width:150px;
+	height:150px;
+	position: absolute;
+	
+}
+#me {
+	margin-left: 170px;
+	padding-top: 20px;
+	font-style:italic;
+	font-size: 18px;
+}
+#me2 {
+
+	padding: 20px;
+	font-style:italic;
+	font-size: 18px;
+}
